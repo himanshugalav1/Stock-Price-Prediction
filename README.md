@@ -57,7 +57,3 @@ The project dives into the significance of utilizing time-series data, employing
 ## Conclusion
 
 This repository presents an in-depth exploration of predicting stock prices using machine learning techniques, showcasing the strengths and limitations of various models and methodologies.
-
----
-
-Feel free to modify the structure or content to fit your project's specific details and requirements!
